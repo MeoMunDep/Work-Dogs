@@ -1,0 +1,16 @@
+{
+  "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [5, 8],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 100,
+  "doTasks": false,
+  "playGames": true,
+  "amountOfGames": {
+    "dropZone": 2,
+    "doggyDash": 2
+  },
+  "referralCode": "6713068747"
+}
