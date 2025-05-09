@@ -7,7 +7,6 @@ NC='\033[0m'
 
 echo -ne "\033]0;Work Dogs Bot by @MeoMunDep\007"
 
-
 print_green() {
     echo -e "${GREEN}$1${NC}"
 }
@@ -33,7 +32,6 @@ fi
 create_default_configs() {
     cat > configs.json << EOL
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
