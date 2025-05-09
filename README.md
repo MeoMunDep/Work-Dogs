@@ -41,7 +41,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
@@ -54,6 +53,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
     "dropZone": 2,
     "doggyDash": 2
   },
+  "connectWallets": true,
   "referralCode": "6713068747"
 }
 ```
