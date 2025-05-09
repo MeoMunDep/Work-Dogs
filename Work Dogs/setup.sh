@@ -44,6 +44,7 @@ create_default_configs() {
     "dropZone": 1000,
     "doggyDash": 2
   },
+  "connectWallets": true,
   "referralCode": "6713068747"
 }
 EOL
