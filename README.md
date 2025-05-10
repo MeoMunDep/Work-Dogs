@@ -72,9 +72,9 @@ query_id.../user...
 
 
 ```txt - wallet address
-abc...xyz
-abc...xyz
-abc...xyz
+ton address
+ton address
+ton address
 ```
 
 ### 4. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
