@@ -28,7 +28,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents axios colors https-proxy-agent socks-proxy-agent 
+   npm i user-agents axios colors https-proxy-agent socks-proxy-agent @ton/core
    ```
 
 2. **Prepare Configuration Files:**
